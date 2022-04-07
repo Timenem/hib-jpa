@@ -1,0 +1,32 @@
+<!--<?xml version = "1.0" encoding = "utf-8"?>-->
+<!--<!DOCTYPE hibernate-configuration PUBLIC-->
+<!--        "-//Hibernate/Hibernate Configuration DTD//EN"-->
+<!--        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">-->
+<!--<hibernate-configuration>-->
+<!--    <session-factory>-->
+<!--        <property name = "connection.url">-->
+<!--            jdbc:postgresql://localhost:5432/students-->
+<!--        </property>-->
+
+<!--        <property name = "connection.driver_class">-->
+<!--            com.postgresql.jdbc.Driver-->
+<!--        </property>-->
+
+<!--        <property name = "hibernate.connection.url">-->
+<!--            jdbc:mysql://localhost/test-->
+<!--        </property>-->
+
+<!--        <property name = "hibernate.connection.username">-->
+<!--            root-->
+<!--        </property>-->
+
+<!--        <property name = "hibernate.connection.password">-->
+<!--            root123-->
+<!--        </property>-->
+
+<!--        &lt;!&ndash; List of XML mapping files &ndash;&gt;-->
+<!--        <mapping class="models.domain.Register"/>-->
+<!--        <mapping class="models.domain.Student"/>-->
+<!--    <property name="hibernate.hbm2ddl.auto">validate</property>-->
+<!--    </session-factory>-->
+<!--</hibernate-configuration>-->
